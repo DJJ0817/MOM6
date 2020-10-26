@@ -7,6 +7,7 @@ The whole instrtction: https://github.com/NOAA-GFDL/MOM6-examples/wiki
 
 
 #Compile and run problems and solution: 
+
 Compile: 
 Moduel avail intel/ncl/netcdf…….   Then module load ncl/6.2.1
 Remember to delete all of .mod .o .d .a when start a new run after failure. 
